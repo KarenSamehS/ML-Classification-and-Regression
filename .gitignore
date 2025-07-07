@@ -1,0 +1,29 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.egg-info/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode and other editor configs (optional)
+.vscode/
+.idea/
+
+# Environment & packages
+.env
+.venv/
+env/
+venv/
+*.env
+
+# Mac & system files (optional)
+.DS_Store
+
+# Output files
+*.csv
+*.h5
+*.pkl
+*.log
