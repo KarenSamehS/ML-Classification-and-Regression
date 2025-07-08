@@ -88,4 +88,4 @@ This repository contains a machine learning assignment project completed on Kagg
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KarenSamehS/ML_Classification_and_Regression.git
+   git clone https://github.com/KarenSamehS/ML-Classification_and_Regression.git
