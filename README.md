@@ -1,4 +1,4 @@
-# ML_Classification_and_Regression
+# ML-Classification_and_Regression
 
 This repository contains a machine learning assignment project completed on Kaggle. It includes both a classification and a regression task using real-world datasets. The implementation demonstrates data preprocessing, model training, hyperparameter tuning, evaluation, and comparison of different models.
 
